@@ -18,7 +18,7 @@
   <a href="https://apple-concrete-344.notion.site/06156a2c8d424a109dec5fa11c92491c">
     <img src="https://img.shields.io/badge/Tech-F7A81B?style=plastic-square&logo=Notion&logoColor=white"/>
   </a>
-  <a href="jseung49@gmail.com">
+  <a href="mailto:jseung49@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=plastic-square&logo=Gmail&logoColor=white"/>
   </a>
   <br/>
