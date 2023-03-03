@@ -23,10 +23,9 @@
   </a>
   <br/>
 
- <br/>
   <br/>
   
-  ####  :books: Tech Stack
+  ####  :books: Skills
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007596?style=plastic-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic-square&logo=Kotlin&logoColor=white"/>
