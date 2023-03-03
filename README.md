@@ -2,27 +2,51 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=jsy49&color=gradient&animation=fadeIn)
   
-####  :wave: Welcome to my github !
+  
+##  :wave: Welcome to my github !
+**Mobile App Developer**
+  <br/>
+**Android App Developer**
+  <br/><br/>
+자라나는 중   :seedling:
+<br/>
+  
+### 🤝🏻
+  <a href="https://yeons4every.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech-3A3A42?style=plastic-square&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="https://apple-concrete-344.notion.site/06156a2c8d424a109dec5fa11c92491c">
+    <img src="https://img.shields.io/badge/Tech-F7A81B?style=plastic-square&logo=Notion&logoColor=white"/>
+  </a>
+  <a href="jseung49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=plastic-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <br/>
 
  <br/>
-  
-<a href="https://yeons4every.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://yeons4every.tistory.com/"/>
-</a>
- 
-   <br/>
-   <br/>
- 
-#### :pencil2: Study log
- 
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ####  :books: Tech Stack
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic-square&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007596?style=plastic-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic-square&logo=Kotlin&logoColor=white"/>
+ <br/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=C&logoColor=white"/>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+    
+  #### :pencil2: language
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsy49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br/><br/>
+  
+  ####  :books: Algorithm
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jseung49)](https://solved.ac/jseung49/)
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsy49&show_icons=true&theme=radical)-->
 </div>
 
-
+ 
 
 
 
