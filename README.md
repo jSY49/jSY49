@@ -25,7 +25,7 @@
 
   <br/>
   
-  ####  :books: Skills
+  ####  :computer: Skills :computer:
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007596?style=plastic-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic-square&logo=Kotlin&logoColor=white"/>
@@ -35,12 +35,12 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=C&logoColor=white"/>
   
     
-  #### :pencil2: language
+  #### :pencil2: language :pencil2:
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsy49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/><br/>
   
-  ####  :books: Algorithm
+  ####  :books: Algorithm :books:
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jseung49)](https://solved.ac/jseung49/)
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsy49&show_icons=true&theme=radical)-->
 </div>
