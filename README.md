@@ -27,11 +27,11 @@
   
   ####  :computer: Skills :computer:
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic-square&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007596?style=plastic-square&logo=Java&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-007596?style=plastic-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic-square&logo=Kotlin&logoColor=white"/>
  <br/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic-square&logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=C&logoColor=white"/>
   
     
@@ -41,6 +41,8 @@
   <br/><br/>
   
   <!--
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/>
+
   ####  :books: Algorithm :books:
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jseung49)](https://solved.ac/jseung49/)
 -->
